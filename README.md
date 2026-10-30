@@ -13,7 +13,7 @@ Manually reorganizing hundreds of files or fixing mismatched names/tags is painf
 - **Subfolder Mirroring:** Perfectly mirrors your ROM directory tree inside each core folder.
 - **Safe Execution:** Uses non-destructive copying (`Copy-Item`), meaning your original cheat repository remains untouched.
 
-## Project is still in Alpha stage... Take in count that the margin of error is around 20%
+## Project is in Beta stage... Take in count that the margin of error is around 10%
 
 # How-To: Automated RetroArch Cheat Synchronization for muOS
 
