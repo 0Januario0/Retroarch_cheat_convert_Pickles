@@ -14,3 +14,4 @@ Manually reorganizing hundreds of files or fixing mismatched names/tags is painf
 - **Safe Execution:** Uses non-destructive copying (`Copy-Item`), meaning your original cheat repository remains untouched.
 
 ### Project is still in Alpha stage...
+### Take in count that the margin of error is around 20%
